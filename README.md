@@ -1,8 +1,5 @@
 <h2> React Travel Journal</h2>
 
-<img src="./screenshot/portfolio.png" width=50%/>
-
-
 <h3>Built with:</h3>
 <ul>
   <li>HTML </li> 
